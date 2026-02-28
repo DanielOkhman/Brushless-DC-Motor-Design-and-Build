@@ -1,7 +1,7 @@
 # Brushless DC Motor Design and Build
 
 <p align="center">
-  <a href="https://github.com/YOUR-USERNAME/engineering-portfolio">
+  <a href="https://github.com/DanielOkhman/Daniel-Okhman">
     ← Back to Main Engineering Portfolio
   </a>
 </p>
