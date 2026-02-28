@@ -47,7 +47,7 @@ The purpose of this project was to design build and test and electric motor to r
 </table>
 Exploded and assembled CAD views displays motor component integration; all parts achieved an appropriate fit including bearings and shaft alignment.
 
-#### 1) Windings and Poles
+#### 2) Windings and Poles
 <table>
 <tr>
 <td align="center">
