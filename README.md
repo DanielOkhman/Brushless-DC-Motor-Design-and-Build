@@ -101,8 +101,10 @@ Collected data for post-processing
 
 #### 4) Demo
 
+<h2>🎥 Demo Video</h2>
+
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=9W7rJUbFsuU" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.youtube.com/watch?v=9W7rJUbFsuU">
     <img src="https://img.youtube.com/vi/9W7rJUbFsuU/hqdefault.jpg"
          alt="BLDC motor demo video"
          width="700">
@@ -110,7 +112,7 @@ Collected data for post-processing
 </p>
 
 <p align="center">
-  <i>Click the image to watch the BLDC motor operational test (opens in new tab).</i>
+  <i>Click image to watch demo video ↗</i>
 </p>
 
 <hr>
