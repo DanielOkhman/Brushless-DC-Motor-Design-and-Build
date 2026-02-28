@@ -1,5 +1,12 @@
 # Brushless DC Motor Design and Build
 
+<p align="center">
+  <a href="https://github.com/YOUR-USERNAME/engineering-portfolio">
+    ← Back to Main Engineering Portfolio
+  </a>
+</p>
+
+---
 ## Objective
 Design and Build a motor to research efficiency
 
