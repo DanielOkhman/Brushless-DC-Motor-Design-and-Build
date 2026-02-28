@@ -101,8 +101,15 @@ Collected data for post-processing
 
 #### 4) Demo
 
-[Watch Test Video]([media/motor-test.mp4](https://github.com/DanielOkhman/Brushless-DC-Motor-Design-and-Build/blob/62e56f0ecad665f547eae1bd05087dbd204b755d/IMG_6588.mov))
+<p align="center">
+  <a href="https://github.com/DanielOkhman/Brushless-DC-Motor-Design-and-Build/blob/62e56f0ecad665f547eae1bd05087dbd204b755d/IMG_6588.mov">
+    <img src="images/motor-test-thumbnail.jpg" width="500"/>
+  </a>
+</p>
 
+<p align="center">
+<i>Click image to view BLDC motor operational test video (.mov).</i>
+</p>
 
 <p align="center">
   <a href="https://github.com/DanielOkhman/Daniel-Okhman">
