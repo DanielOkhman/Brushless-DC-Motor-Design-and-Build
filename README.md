@@ -102,7 +102,7 @@ Collected data for post-processing
 #### 4) Demo
 
 <p align="center">
-  <a href="https://github.com/DanielOkhman/Brushless-DC-Motor-Design-and-Build/blob/62e56f0ecad665f547eae1bd05087dbd204b755d/IMG_6588.mov">
+  <a href="https://github.com/DanielOkhman/Brushless-DC-Motor-Design-and-Build/blob/67fd013b04357ebc4192581ccbd35512c1360329/IMG_6589.mp4">
     <img src="images/motor-test-thumbnail.jpg" width="500"/>
   </a>
 </p>
