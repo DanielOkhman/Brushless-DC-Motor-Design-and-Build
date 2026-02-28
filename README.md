@@ -99,9 +99,7 @@ Used Arduino Infrared Sensor and slotted disk to measure the RPM
 Collected data for post-processing
 
 
-#### 4) Demo
-
-<h2>🎥 Demo Video</h2>
+#### 4) Demo Video
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=9W7rJUbFsuU">
