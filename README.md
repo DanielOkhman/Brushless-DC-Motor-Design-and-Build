@@ -47,9 +47,17 @@ The purpose of this project was to design build and test and electric motor to r
 </table>
 Exploded and assembled CAD views displays motor component integration; all parts achieved an appropriate fit including bearings and shaft alignment.
 
+#### 1) Windings and Poles
+<table>
+<tr>
+<td align="center">
+<img src="https://github.com/DanielOkhman/Brushless-DC-Motor-Design-and-Build/blob/6a934d01ce711f70aa0d2500dbf3b0ae6c0a002c/IMG_6542.jpeg" width="400"/><br>
+</td>
 
-
-
+  
+Bearings and shaft installed for a snug fit
+Stator winding done by hand
+Poles attached to the rotor alternating polarity
 
 
 
