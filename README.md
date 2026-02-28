@@ -34,14 +34,18 @@ The purpose of this project was to design build and test and electric motor to r
 ### Steps Taken
 
 #### 1) Design
-![image alt](https://github.com/DanielOkhman/Brushless-DC-Motor-Design-and-Build/blob/50c4c99d479dd94dc32e7062dd7d5f688a0712f2/Screenshot%202026-02-28%20121526.png)
-![image alt](https://github.com/DanielOkhman/Brushless-DC-Motor-Design-and-Build/blob/50c4c99d479dd94dc32e7062dd7d5f688a0712f2/Screenshot%202026-02-28%20121426.png)
+<table>
+<tr>
+<td align="center">
+<img src="https://github.com/DanielOkhman/Brushless-DC-Motor-Design-and-Build/blob/50c4c99d479dd94dc32e7062dd7d5f688a0712f2/Screenshot%202026-02-28%20121526.png" width="400"/><br>
+</td>
 
-
-
-
-
-
+<td align="center">
+<img src="https://github.com/DanielOkhman/Brushless-DC-Motor-Design-and-Build/blob/50c4c99d479dd94dc32e7062dd7d5f688a0712f2/Screenshot%202026-02-28%20121426.png" width="400"/><br>
+</td>
+</tr>
+</table>
+Exploded and assembled CAD views displays motor component integration; all parts achieved an appropriate fit including bearings and shaft alignment.
 
 
 
