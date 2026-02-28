@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DanielOkhman/Daniel-Okhman">
-    ← Back to Main Engineering Portfolio
+    ← Back to Main Portfolio
   </a>
 </p>
 
@@ -31,11 +31,24 @@ The purpose of this project was to design build and test and electric motor to r
 - 3D printer
 - Bench power supply
 
-## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
+## Process
 
-Every screenshot should have some text explaining what the screenshot is about.
 
-Example below.
 
-*Ref 1: Network Diagram*
+
+
+
+
+
+
+
+
+
+
+<p align="center">
+  <a href="https://github.com/DanielOkhman/Daniel-Okhman">
+    ← Back to Main Portfolio
+  </a>
+</p>
+
+---
