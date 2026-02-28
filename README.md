@@ -39,6 +39,8 @@ The purpose of this project was to design build and test and electric motor to r
 
 ### Steps Taken
 
+--------
+
 #### 1) Design
 <table>
 <tr>
@@ -54,6 +56,8 @@ The purpose of this project was to design build and test and electric motor to r
 Exploded and assembled CAD views displays motor component integration
 
 All parts achieved an appropriate fit including bearings and shaft alignment.
+
+---
 
 #### 2) Assembly
 <table>
@@ -77,7 +81,7 @@ Poles attached to the rotor alternating polarity
 
 All phases connected and wired to the PWM controller
 
-
+---
 #### 3) Testing
 <table>
 <tr>
@@ -98,7 +102,7 @@ Used Arduino Infrared Sensor and slotted disk to measure the RPM
 
 Collected data for post-processing
 
-
+---
 #### 4) Demo Video
 
 <p align="center">
@@ -114,3 +118,12 @@ Collected data for post-processing
 </p>
 
 <hr>
+
+---
+
+<p align="center">
+  <a href="https://github.com/DanielOkhman/Daniel-Okhman">
+    ← Back to Main Portfolio
+  </a>
+</p>
+
