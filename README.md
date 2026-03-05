@@ -10,7 +10,7 @@
 ## Objective
 Design and Build a motor to research efficiency
 
-The purpose of this project was to design build and test and electric motor to reach a high level of efficiency. The primary focus was to increase working efficiency and see the application of different changes in the design. This hands-on experience was designed to deepen my understanding of electronics, controllers, and electromagnetism.
+The purpose of this project was to design, build, and test and electric motor to reach a high level of efficiency. The primary focus was to increase working efficiency and see the application of different changes in the design. This hands-on experience was designed to deepen my understanding of electronics, controllers, and electromagnetism.
 
 ---
 
